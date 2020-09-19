@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre - aka S4lvioni 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/atsalvioni?label=FOLLOW%20%40atsalvioni&logo=twitter&style=for-the-badge)
+I'm 20 years old, currently living at Dourados, a city of the state of Mato Grosso do Sul, Brazil.
 
 ## I'm a Software Engineering student, currently at 6/8 semester!
 
