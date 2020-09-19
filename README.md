@@ -9,7 +9,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-quo8xdz6j.vercel.app/api/spotify" alt="Me Spotify Playing" width="350" />](https://open.spotify.com/user/n0r1qcw8qd5jf5vsrjjgtp5e1)
+[<img src="https://novatorem-fynuwep2f.vercel.app/api/spotify" alt="Me Spotify Playing" width="350" />](https://open.spotify.com/user/n0r1qcw8qd5jf5vsrjjgtp5e1)
 
 ### Connect with me:
 
