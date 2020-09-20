@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre - aka S4lvioni 👋
 
-I'm 20 years old, currently living at Dourados, a city of the state of Mato Grosso do Sul, Brazil.
+I'm 20 years old, currently living at Dourados, a city in the state of Mato Grosso do Sul, Brazil.
 
 ## I'm a Software Engineering student, currently at 6/8 semester!
 
