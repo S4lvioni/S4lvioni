@@ -27,7 +27,7 @@ I'm 21 years old, currently living at Dourados, a city in the state of Mato Gros
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img align="left" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-
+<img align="left" width="26px" src="https://img.icons8.com/ios/344/php-logo.png"/>
 <br />
 <br />
 
