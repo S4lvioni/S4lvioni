@@ -1,11 +1,12 @@
 ### Hi there, I'm Alexandre - aka S4lvioni 👋
 
-I'm 20 years old, currently living at Dourados, a city in the state of Mato Grosso do Sul, Brazil.
+I'm 21 years old, currently living at Dourados, a city in the state of Mato Grosso do Sul, Brazil.
 
-## I'm a Software Engineering student, currently at 6/8 semester!
+## I'm a Sofware Engineer!
 
 -  I’m currently working on personal project, a little website builded in almost pure HTML+CSS+JS [JustBreathe][website]!
 -  I’m currently deepening my JS skills, and soon i will start studying React! 
+-  I'm currently developing my new project, Psycholinker, an app to bring patients and therapists closer!
 
 
 ### Spotify Playing 🎧
