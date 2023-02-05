@@ -9,9 +9,6 @@ I'm 21 years old, currently living at Dourados, a city in the state of Mato Gros
 -  I'm a Freelancer!
 
 
-### Spotify Playing 🎧
-[<img src="https://novatorem-fynuwep2f.vercel.app/api/spotify" alt="Me Spotify Playing" width="350" />](https://open.spotify.com/user/n0r1qcw8qd5jf5vsrjjgtp5e1)
-
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
